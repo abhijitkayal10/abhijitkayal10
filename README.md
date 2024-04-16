@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhijitkayal10
+- 👋 Hi, I’m @abhijitkayal
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack
 
